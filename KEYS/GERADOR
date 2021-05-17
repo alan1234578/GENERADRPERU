@@ -32,3 +32,5 @@ ultrahost
 tcp.sh
 dns-netflix.sh
 budp.sh
+gerar.sh
+http-server.sh
